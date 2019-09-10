@@ -8,7 +8,7 @@
 
 import React, {Fragment} from 'react';
 import {
-  SafeAreaView,
+ 
   StyleSheet,
   ScrollView,
   View,
@@ -17,11 +17,7 @@ import {
 } from 'react-native';
 
 import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
+ 
 } from 'react-native/Libraries/NewAppScreen';
  import Laouen from './components/Laouen';
  import Dorian from './components/Dorian';
