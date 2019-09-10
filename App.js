@@ -20,13 +20,14 @@ import {
  
 } from 'react-native/Libraries/NewAppScreen';
  import Laouen from './components/Laouen';
- import Dorian from './components/Dorian';
+ import Dorian  from './components/Dorian';
 const App = () => {
   return (
     <Fragment>
       <StatusBar barStyle="dark-content" />
       <Dorian/>
       <Laouen/>
+      
     </Fragment>
   );
 };
